@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeWizardDiSar
+- 👋 Hi, I’m @DimitrisSa
 - 👀 I’m interested in functional programming
 - 🌱 I’m currently learning functional parsers
 - 💞️ I’m looking to collaborate on creating a functional programming language
